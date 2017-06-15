@@ -19,7 +19,7 @@ And a proper CSV file will be downloaded with `email` and `name` fields.
 Just run this on your terminal:
 
 ```
-composer require "usmanhalalit/laracsv:1.*@dev"
+composer require "wilber/wilbercsv"
 ```
 and you should be good to go.
 
